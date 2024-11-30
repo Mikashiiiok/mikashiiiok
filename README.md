@@ -7,7 +7,7 @@
 
 - 📫 Cómo contactarme: **Próximamente.**
 
-- ⚡ Dato curioso: **tengo conocimientos básicos y de nivel intermedio en varias tecnologías como Python, C++, HTML y CSS, JavaScript, Java y TypeScript.**
+- ⚡ Dato curioso: **Tengo 16 años y cuento con conocimientos básicos y de nivel intermedio en varias tecnologías como Python, C++, HTML y CSS, JavaScript, Java y TypeScript.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
