@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, soy Mikashiiiok</h1>
 <h3 align="center">Un apasionado Junior Developer de Colombia</h3>
 
-- 🌱 Actualmente estoy aprendiendo **C++, Mid-level Web Development y Python Mid-Level.**
+- 🌱 Actualmente estoy aprendiendo: **C++, Mid-level Web Development y Python Mid-Level.**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [Próximamente.](Próximamente.)
+- 👨‍💻 Todos mis proyectos están disponibles en: [Próximamente.](Próximamente.)
 
-- 📫 Cómo contactarme **Próximamente.**
+- 📫 Cómo contactarme: **Próximamente.**
 
-- ⚡ Dato curioso **engo conocimientos básicos y de nivel intermedio en varias tecnologías como Python, C++, HTML y CSS, JavaScript, Java y TypeScript.**
+- ⚡ Dato curioso: **tengo conocimientos básicos y de nivel intermedio en varias tecnologías como Python, C++, HTML y CSS, JavaScript, Java y TypeScript.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
